@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Stylish Website - ウェブデザインとクリエイティブなソリューション</title>
+  <style>
+  </style>
+</head>
+<body>
+  <header>
+    <h1>StylishWeb</h1>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#">ホーム</a></li>
+      <li><a href="#">会社概要</a></li>
+      <li><a href="#">サービス</a></li>
+      <li><a href="#">お問い合わせ</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <h2>会社概要</h2>
+    <p>StylishWebは、ウェブデザインとクリエイティブなソリューションを提供する会社です。私たちは美しいウェブサイトを作成し、最新のテクノロジーを活用してビジネスをサポートします。</p>
+
+    <h2>サービス</h2>
+    <ul>
+      <li>ウェブデザインと開発</li>
+      <li>ユーザーエクスペリエンス（UX）デザイン</li>
+      <li>ブランディングとロゴデザイン</li>
+      <li>デジタルマーケティング</li>
+    </ul>
+  </main>
+
+  <footer>
+    <p>&copy; 2023 StylishWeb. All rights reserved.</p>
+  </footer>
+</body>
+</html>
